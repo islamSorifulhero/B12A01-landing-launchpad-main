@@ -45,3 +45,17 @@
     display: block;
     margin-top: 15px;
 }
+.action-section{
+    display: flex;
+    margin-top: 116px;
+    gap: 220px;
+}
+.action-left{
+    margin-left: 141px;
+}
+.action-img img{
+    margin-right: 159px;
+    width: 403px;
+    height: 328px;
+    border-radius: 30px;
+}
