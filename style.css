@@ -1,0 +1,47 @@
+.header{
+    width: 100%;
+    background-image: url(Assets/Hero-bg.png);
+    height: 578px;
+}
+.logo{
+    display: flex;
+    justify-content: space-between;
+}
+.nav-logo{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 150px;
+    font-size: 34px;
+    color: #4E47FF;
+}
+.nav-btn{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 150px;
+    background-color: #4E47FF;
+    border: none;
+    color: #FFFFFF;
+    width: 132px;
+    height: 48px;
+    font-size: 16px;
+    border-radius: 10px;
+}
+.banner-section{
+    /* margin-top: 300px; */
+}
+.logo-template{
+    text-align: center;
+    color: #252432;
+    font-size: 61px;
+    font-weight: bold;
+    margin-top: 80px;
+    margin-left: 267px;
+    margin-right: 267px;
+    margin-bottom: 37px;
+}
+.logo-btn{
+    width: 174px;
+    margin: auto;
+    display: block;
+    margin-top: 15px;
+}
