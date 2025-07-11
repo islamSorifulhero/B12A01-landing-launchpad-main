@@ -200,6 +200,8 @@ main{
 }
 .feedback-section h3{
     text-align: center;
+    font-size: 42px;
+    font-weight: bold;
 }
 .feedback-users-details{
     display: flex;
