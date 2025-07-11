@@ -242,3 +242,38 @@ main{
 .reviewer-section p{
     color: #1e1e1ec5;
 }
+.button-hover{
+    width: 180px;
+    height: 44px;
+    display: block;
+    margin: auto;
+    background-color: #4E47FF;
+    border: none;
+    color: white;
+    font-size: 20px;
+}
+.button-hover:hover{
+    background-color: red;
+    color: rgb(4, 71, 4);
+}
+.better-section{
+    text-align: center;
+    margin: 137px 149px 92px 150px;
+}
+.better-section h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: #000000;
+}
+.better-section p{
+    color: #0000006b;
+    margin-top: -20px;
+}
+.better-btn{
+    margin-left: 139px;
+    margin-top: 6px;
+}
+.better-section img{
+    border-radius: 10px;
+    margin-top: -20px;
+}
