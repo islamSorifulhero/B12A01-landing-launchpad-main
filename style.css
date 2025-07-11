@@ -158,10 +158,37 @@ main{
     margin-top: -37px;
     margin-left: 756px;
     margin-right: 10px;
+    margin-bottom: 20px;
     background-color: #4E47FF;
     border: none;
     color: #FFFFFF;
     height: 39px;
     font-size: 16px;
     border-radius: 10px;
+}
+.footer-section{
+    margin: 104px 400px;
+}
+.footer-title{
+    text-align: center;
+}
+.footer-title h1{
+    font-size: 100px;
+    color: #4E47FF;
+}
+.footer-title p{
+    color: #8987A1;
+    font-size: 16px;
+    margin-top: -70px;
+}
+.footer-links ul{
+    display: flex;
+    gap: 48px;
+}
+.footer-links ul li{
+    list-style: none;
+}
+.footer-links ul a{
+    text-decoration: none;
+    color: #8987A1;
 }
