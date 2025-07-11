@@ -122,10 +122,46 @@ main{
     justify-content: space-between;
     margin: 92px 150px 0px;
     gap: 115px;
+    align-items: center;
 }
 .section-title{
     align-items: center;
     color: #000000;
     font-size: 97px;
     font-weight: bold;
+    margin-top: 105px;
+    margin-bottom: 64px;
+}
+.label-title{
+    color: #000000;
+    font-size: 18px;
+}
+.input-type{
+    padding: 20px 32px;
+    width: 280px;
+    height: 6px;
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 15px;
+    margin-top: 5px;
+}
+.message-type{
+    width: 280px;
+    height: 68px;
+    padding: 20px 32px;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: -48px;
+}
+.submit-get-btn{
+    width: 342px;
+    margin-top: -37px;
+    margin-left: 756px;
+    margin-right: 10px;
+    background-color: #4E47FF;
+    border: none;
+    color: #FFFFFF;
+    height: 39px;
+    font-size: 16px;
+    border-radius: 10px;
 }
